@@ -14,7 +14,7 @@
  *                          em profundidade recursiva)
  *               q = sair
  *
- * O labirinto é gerado com uma função recursiva (carvar, em
+ * O labirinto é gerado com uma função recursiva (formar, em
  * labirinto.c) e a dica é calculada com outra função recursiva
  * (resolverLabirinto), aplicando exatamente o conceito de
  * recursividade + condição de parada proposto na atividade.
