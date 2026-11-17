@@ -93,7 +93,4 @@ original permanece na ordem em que as partidas aconteceram. A lista auxiliar é 
 
 | Nome | Função no grupo |
 |------|-----------------|
-|      |                 |
-|      |                 |
-|      |                 |
-|      |                 |
+|  Taina |   Dev + Tester  |
