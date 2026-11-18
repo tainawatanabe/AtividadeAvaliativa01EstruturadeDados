@@ -12,7 +12,7 @@ Pré-requisitos: `gcc` e `make`.
 ```bash
 make
 ./labirinto          # labirinto aleatório
-./labirinto 42       # (opcional) semente fixa: repete sempre o mesmo labirinto
+./labirinto 42       # (opcional) seed fixo: repete sempre o mesmo labirinto
 make clean           # remove os arquivos gerados
 ```
 
